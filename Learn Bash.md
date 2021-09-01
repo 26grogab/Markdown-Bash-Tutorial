@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="learn-bash">Learn Bash</h1>
 <p>Bash (Bourne Again Shell) is a relatively simple coding language meant for many simple things. I like using it because there’s a lot that you can do with it, but also a complexity of some things that makes it just challenging enough to want to learn it.</p>
 <h2 id="how-to-get-bash">How to Get Bash</h2>
